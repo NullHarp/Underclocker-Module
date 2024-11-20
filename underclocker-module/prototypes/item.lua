@@ -8,8 +8,8 @@ data:extend({
         stack_size = 50,
         effect =
         {
-            consumption = -0.2,
-            speed = -0.2
+            consumption = -0.25,
+            speed = -0.25
         }
     },
     {
@@ -21,8 +21,8 @@ data:extend({
         stack_size = 50,
         effect =
         {
-            consumption = -0.4,
-            speed = -0.4
+            consumption = -0.5,
+            speed = -0.5
         }
     },
     {
@@ -34,8 +34,8 @@ data:extend({
         stack_size = 50,
         effect =
         {
-            consumption = -0.8,
-            speed = -0.8
+            consumption = -0.75,
+            speed = -0.75
         }
     },
     {
